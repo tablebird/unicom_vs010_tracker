@@ -1,0 +1,14 @@
+{
+    "name": "联通华盛路由器VS010",
+    "domain": "unicom_vs010_tracker",
+    "country": "CN",
+    "version": "0.0.1",
+    "config_flow": true,
+    "documentation": "https://github.com/tablebird/unicom_vs010_tracker.git",
+    "requirements": [
+        "beautifulsoup4>=4.12.3"
+    ],
+    "codeowners": [
+    "@tablebird"
+  ]
+}

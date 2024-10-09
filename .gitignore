@@ -1,0 +1,8 @@
+﻿.venv
+.vscode
+.storage
+.HA_VERSION
+home-assistant.log*
+configuration.yaml
+custom_components/unicom_vs010_tracker/__pycache__
+known_devices.yaml
