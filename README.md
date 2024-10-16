@@ -7,8 +7,11 @@
 
 ## 安装
 
+打开HACS下载**联通华盛路由器vs010**
 
-配置设备追踪在`configuration.yaml`添加如下内容
+[![Download repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository?owner=tablebird&repository=unicom_vs010_tracker&category=Integration)
+
+在`configuration.yaml`添加如下内容配置路由信息进行设备追踪
 ```yaml
 device_tracker:
   - platform: unicom_vs010_tracker   # 插件名称
